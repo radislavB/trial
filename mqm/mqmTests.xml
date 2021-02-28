@@ -1,1 +1,14 @@
-<?xml version='1.0' encoding='UTF-8'?><test_result><build server_id="to-be-filled-in-SDK" job_id="simple test folder/job/simpleTests" build_id="237" /><test_runs><test_run module="" package="MF.simple.tests" class="App2Test" name="testSendGet" duration="381" status="Passed" started="1614228866867" /><test_run module="" package="MF.simple.tests" class="AppTest" name="testWillThrowOnParameter" duration="0" status="Passed" started="1614228866867" /><test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC2" duration="0" status="Passed" started="1614228866867" /><test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1614228866867" /><test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="2" status="Passed" started="1614228866867" /><test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC" duration="0" status="Passed" started="1614228866867" /><test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="0" status="Passed" started="1614228866867" /><test_run module="" package="MF.simple.tests" class="AppTest" name="testWillFailOnParameter" duration="0" status="Passed" started="1614228866867" /><test_run module="" package="MF.simple.tests" class="AppTest" name="testWillSleepOnParameter" duration="0" status="Passed" started="1614228866867" /></test_runs></test_result>
+<?xml version="1.0" encoding="UTF-8"?>
+<test_result>
+  <test_runs>
+    <test_run module="" package="MF.simple.tests" class="App2Test" name="testSendGet" duration="381" status="Passed" started="1614228866867"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testWillThrowOnParameter" duration="0" status="Passed" started="1614228866867"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC2" duration="0" status="Passed" started="1614228866867"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1614228866867"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="2" status="Passed" started="1614228866867"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC" duration="0" status="Passed" started="1614228866867"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="0" status="Passed" started="1614228866867"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testWillFailOnParameter" duration="0" status="Passed" started="1614228866867"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testWillSleepOnParameter" duration="0" status="Passed" started="1614228866867"/>
+  </test_runs>
+</test_result>
