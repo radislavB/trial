@@ -1,0 +1,10 @@
+<test_result>
+  <test_fields>
+    <test_field type="Testing_Tool_Type" value="c_test2"/>
+	<test_field type="Test_Level" value="bubu"/>
+	
+  </test_fields>
+  <test_runs>
+    <test_run bubu="rr" module="/helloWorld" package="hello" class="" name="testOne6" duration="3" status="Passed" started="1430919295889"/>
+  </test_runs>
+</test_result>
