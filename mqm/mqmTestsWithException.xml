@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test_result>
+  <test_runs>
+    <test_run module="" package="MF.simple.tests" class="App2Test" name="testSendGet" duration="637" status="Passed" started="1614610225233"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testWillThrowOnParameter" duration="0" status="Passed" started="1614610225233"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC2" duration="0" status="Passed" started="1614610225233"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1614610225233"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Passed" started="1614610225233"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC" duration="0" status="Passed" started="1614610225233"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="1" status="Passed" started="1614610225233"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testWillFailOnParameter" duration="0" status="Failed" started="1614610225233">
+      <error type="junit.framework.AssertionFailedError" message="fail parameter is set">junit.framework.AssertionFailedError: fail parameter is set
+	at MF.simple.tests.AppTest.testWillFailOnParameter(AppTest.java:70)
+</error>
+    </test_run>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testWillSleepOnParameter" duration="0" status="Passed" started="1614610225233"/>
+  </test_runs>
+</test_result>
