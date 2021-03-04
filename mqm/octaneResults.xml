@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <test_result>
   <test_runs>
-    <test_run module="" package="MF.simple.tests" class="App2Test" name="testSendGet" duration="381" status="Passed" started="1614228866872"/>
+    <test_run module="" package="MF.simple.tests" class="App2Test" name="testSendGet" duration="381" status="Passed" started="1614228866873"/>
     <test_run module="" package="MF.simple.tests" class="AppTest" name="testWillThrowOnParameter" duration="0" status="Passed" started="1614228866867"/>
     <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC2" duration="0" status="Passed" started="1614228866867"/>
     <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1614228866867"/>
