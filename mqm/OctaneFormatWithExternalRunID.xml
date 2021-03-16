@@ -6,8 +6,9 @@
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246797" external_run_id="A3"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246797" external_run_id="A4"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246797" external_run_id="A5"/>
-    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Passed" started="1602748246797" external_run_id="B1"/>
-    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Passed" started="1602748246797" external_run_id="B2"/>
+	  
+        <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Passed" started="1602748246797" external_run_id="B1"/>
+        <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Passed" started="1602748246797" external_run_id="B2"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Passed" started="1602748246797" external_run_id="B3"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Passed" started="1602748246797" external_run_id="B4"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Passed" started="1602748246797" external_run_id="B5"/>
