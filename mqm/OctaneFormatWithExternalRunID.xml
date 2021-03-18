@@ -25,8 +25,8 @@
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC" duration="2" status="Failed" started="1602748246801" external_run_id="C2"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC" duration="3" status="Skipped" started="1602748246801" external_run_id="C3"/>
 	
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="0" status="Nico" started="1602748246801" external_run_id="D4"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="0" status="Skiped" started="1602748246801" external_run_id="D5"/>
+	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="0" status="Failed" started="1602748246801" external_run_id="D4"/>
+	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="0" status="Skipped" started="1602748246801" external_run_id="D5"/>
 
   </test_runs>
 </test_result>
