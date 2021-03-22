@@ -19,7 +19,7 @@
 			at org.junit.Assert.assertEquals(Assert.java:118)
 	       </error>
 	</test_run>
-	  <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246803" external_run_id=""/>
+	  <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC" duration="0" status="Passed" started="1602748246803" external_run_id=""/>
 
   </test_runs>
 </test_result>
