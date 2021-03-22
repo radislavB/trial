@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <test_result>
   <test_runs>
-        <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246803" external_run_id=""/>
+        <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246803" external_run_id="A1"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="10" status="Passed" started="1602748246803" external_run_id="A2"/>
 	  
         <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Skipped" started="1602748246803" external_run_id="B1"/>
@@ -19,6 +19,7 @@
 			at org.junit.Assert.assertEquals(Assert.java:118)
 	       </error>
 	</test_run>
+	  <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246803" external_run_id=""/>
 
   </test_runs>
 </test_result>
