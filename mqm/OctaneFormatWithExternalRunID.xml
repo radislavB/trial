@@ -11,6 +11,13 @@
 			at org.junit.Assert.assertEquals(Assert.java:118)
 	       </error>
 	</test_run>
+	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Failed" started="1602748246801" external_run_id="B3">
+	        <error type="java.lang.AssertionError" message="expected:'111' but was:'222'">java.lang.AssertionError: expected:'111' but was:'222'
+			at org.junit.Assert.fail(Assert.java:88)
+			at org.junit.Assert.failNotEquals(Assert.java:743)
+			at org.junit.Assert.assertEquals(Assert.java:118)
+	       </error>
+	</test_run>
 
   </test_runs>
 </test_result>
