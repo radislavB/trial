@@ -15,5 +15,6 @@
 	    </error>
     </test_run>
     <test_run module="" package="MF.simple.tests" class="AppTest" name="testWillSleepOnParameter" duration="0" status="Passed" started="1614610225233"/>
+    <test_run module="" package="MF.simple.tests" class="AppTestNico" name="NicoletatestWillSleepOnParameter" duration="14" status="Skipped" started="1614610225236"/>
   </test_runs>
 </test_result>
