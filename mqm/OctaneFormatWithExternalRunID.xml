@@ -11,5 +11,6 @@
 			at org.junit.Assert.failNotEquals(Assert.java:743)
 			at org.junit.Assert.assertEquals(Assert.java:118)
 	       </error>
+	  </test_run>
   </test_runs>
 </test_result>
