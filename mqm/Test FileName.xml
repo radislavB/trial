@@ -8,6 +8,7 @@
     <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Passed" started="1614610225233"/>
     <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC" duration="0" status="Passed" started="1614610225233"/>
     <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="1" status="Passed" started="1614610225233"/>
+    <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="10" status="Passed" started="1614610225235"/>  
     <test_run module="" package="MF.simple.tests" class="AppTest" name="testWillFailOnParameter" duration="0" status="Failed" started="1614610225233">
       <error type="junit.framework.AssertionFailedError" message="fail parameter is set">junit.framework.AssertionFailedError: fail parameter is set
 	at MF.simple.tests.AppTest.testWillFailOnParameter(AppTest.java:70)
