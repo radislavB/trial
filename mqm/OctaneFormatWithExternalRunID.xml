@@ -11,21 +11,5 @@
 			at org.junit.Assert.failNotEquals(Assert.java:743)
 			at org.junit.Assert.assertEquals(Assert.java:118)
 	       </error>
-	</test_run>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Failed" started="1602748246804" external_run_id="B3">
-	        <error type="java.lang.AssertionError" message="expected:'111' but was:'222'">java.lang.AssertionError: expected:'111' but was:'222'
-			at org.junit.Assert.fail(Assert.java:88)
-			at org.junit.Assert.failNotEquals(Assert.java:743)
-			at org.junit.Assert.assertEquals(Assert.java:118)
-	       </error>
-	</test_run>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC" duration="10" status="Passed" started="1602748246804" external_run_id="C0"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppC" duration="20" status="Passed" started="1602748246804" external_run_id="C1"/>
-	  
-        <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="30" status="Skipped" started="1602748246804" external_run_id="D1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppD" duration="40" status="Failed" started="1602748246804" external_run_id="D2">
-	  
-	  
-
   </test_runs>
 </test_result>
