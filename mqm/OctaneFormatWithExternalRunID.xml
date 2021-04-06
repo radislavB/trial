@@ -14,48 +14,5 @@
 			at org.junit.Assert.assertEquals(Assert.java:118)
 	       </error>
 	  </test_run>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppc" duration="0" status="Passed" started="1602748246806" external_run_id="c1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppc" duration="10" status="Passed" started="1602748246806" external_run_id="c2"/>
-
-	<test_run module="" package="MF.simple.tests" class="AppTest@ceva" name="Nico" duration="10" status="Passed" started="1602748246806" external_run_id="c3"/>
-	  
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppd" duration="0" status="Passed" started="1602748246806" external_run_id="d1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppd" duration="10" status="Passed" started="1602748246806" external_run_id="d2"/>
-
-	<test_run module="" package="MF.simple.tests" class="AppTest@ceva" name="Nico" duration="10" status="Passed" started="1602748246806" external_run_id="d3"/>
-	  
-	  
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppe" duration="0" status="Passed" started="1602748246806" external_run_id="e1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppe" duration="10" status="Passed" started="1602748246806" external_run_id="e2"/>
-
-	<test_run module="" package="MF.simple.tests" class="AppTest@ceva" name="Nico" duration="10" status="Passed" started="1602748246806" external_run_id="Ae3"/>
-	  
-	  
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppf" duration="0" status="Passed" started="1602748246806" external_run_id="f1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppf" duration="10" status="Passed" started="1602748246806" external_run_id="f2"/>
-
-	<test_run module="" package="MF.simple.tests" class="AppTest@ceva" name="Nico" duration="10" status="Passed" started="1602748246806" external_run_id="f3"/>
-	  
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppg" duration="0" status="Passed" started="1602748246806" external_run_id="g1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppg" duration="10" status="Passed" started="1602748246806" external_run_id="g2"/>
-
-	<test_run module="" package="MF.simple.tests" class="AppTest@ceva" name="Nico" duration="10" status="Passed" started="1602748246806" external_run_id="g3"/>
-	  
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testApph" duration="0" status="Passed" started="1602748246806" external_run_id="h1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testApph" duration="10" status="Passed" started="1602748246806" external_run_id="h2"/>
-
-	<test_run module="" package="MF.simple.tests" class="AppTest@ceva" name="Nico" duration="10" status="Passed" started="1602748246806" external_run_id="h3"/>
-	  
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppi" duration="0" status="Passed" started="1602748246806" external_run_id="i1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppi" duration="10" status="Passed" started="1602748246807" external_run_id="i2"/>
-
-	<test_run module="" package="MF.simple.tests" class="AppTest@ceva" name="Nico" duration="10" status="Passed" started="1602748246807" external_run_id="i3"/>
-	  
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppj" duration="0" status="Passed" started="1602748246806" external_run_id="j1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppj" duration="10" status="Passed" started="1602748246806" external_run_id="j2"/>
-
-	<test_run module="" package="MF.simple.tests" class="AppTest@ceva" name="Nico" duration="10" status="Passed" started="1602748246806" external_run_id="j3"/>
-	  
-	<test_run module="" package="MF.simple.tests" class="AppTest@ceva" name="Nico" duration="10" status="Passed" started="1602748246806" external_run_id="j4"/>
   </test_runs>
 </test_result>
