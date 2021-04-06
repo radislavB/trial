@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <test_result>
   <test_runs>
-    <test_run module="i" package="MF.simple.tests" class="AppTest" name="testSendGet" duration="637" status="Passed" started="1614610225240" external_run_id="A"/>
-    <test_run module="a" package="MF.simple.tests" class="AppTest" name="testWillSleepOnParameter" duration="1" status="Skipped" started="1614610225240" external_run_id="A"/>
-    <test_run module="a" package="MF.simple.tests" class="AppTest" name="testWillSleepOnParameter" duration="2" status="Failed" started="1614610225240" external_run_id="C">
+    <test_run module="i" package="MF.simple.tests" class="AppTest" name="testSendGet" duration="637" status="Passed" started="1614610225241" external_run_id="A"/>
+    <test_run module="a" package="MF.simple.tests" class="AppTest" name="testWillSleepOnParameter" duration="1" status="Skipped" started="1614610225241" external_run_id="A"/>
+    <test_run module="a" package="MF.simple.tests" class="AppTest" name="testWillSleepOnParameter" duration="2" status="Failed" started="1614610225241" external_run_id="C">
 	    <error type="junit.framework.AssertionFailedError" message="fail parameter is set">junit.framework.AssertionFailedError: fail parameter is set
 	at MF.simple.tests.AppTest.testWillFailOnParameter(AppTest.java:70)
 	    </error>
