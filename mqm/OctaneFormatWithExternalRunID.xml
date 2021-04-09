@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <test_result>
   <test_runs>
-        <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246813" external_run_id="A1"/>
+        <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246813" external_run_id="A1" external_test_id="T1"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246813" external_run_id="A1"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="10" status="Passed" started="1602748246813" external_run_id="A3"/>
 
