@@ -8,7 +8,7 @@
 
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="Nico" duration="5" status="Passed" started="1602748246819" external_run_id="N2"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="Nico" duration="10" status="Skipped" started="1602748246819" external_run_id="N1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Failed" started="1602748246818" external_run_id="B2">
+	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppB" duration="0" status="Failed" started="1602748246819" external_run_id="B2">
 	        <error type="java.lang.AssertionError" message="expected:'111' but was:'222'">java.lang.AssertionError: expected:'111' but was:'222'
 			at org.junit.Assert.fail(Assert.java:88)
 			at org.junit.Assert.failNotEquals(Assert.java:743)
