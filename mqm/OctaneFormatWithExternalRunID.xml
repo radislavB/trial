@@ -2,7 +2,7 @@
 <test_result>
   <test_runs>
         <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="0" status="Passed" started="1602748246819" external_run_id="A1"/>
-	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="9" status="Passed" started="1602748246818" external_run_id="A2"/>
+	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="9" status="Passed" started="1602748246819" external_run_id="A2"/>
         <test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="9" status="Skipped" started="1602748246818" external_run_id="A3"/>
 	<test_run module="" package="MF.simple.tests" class="AppTest" name="testAppA" duration="9" status="Passed" started="1602748246818" external_run_id="A4"/>
 
